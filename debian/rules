@@ -1,0 +1,20 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_auto_install:
+ifeq ($(DEB_HOST_ARCH),arm64)
+	mkdir -p debian/tmp
+	for pkg in camx-glymur \
+	           libcamx-glymur1 \
+	           libcamx-glymur-dev; do \
+		cp -a data/$$pkg/arm64/* debian/tmp/; \
+	done
+	rm -rf $(CURDIR)/debian/tmp/usr/share/doc
+endif
+	:
+
+override_dh_strip:
+	# Don't strip DSP skel files
+	dh_strip --exclude=libhme_dsp_skel.so

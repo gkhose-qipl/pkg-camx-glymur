@@ -16,6 +16,7 @@ Homepage: http://support.cdmatech.com
 Package: camx-glymur
 Architecture: arm64
 Depends:
+ hexagon-dsp-binaries-qualcomm-glymur-crd,
  libfastrpc1,
  libglib2.0-0,
  libprotobuf-lite32t64,

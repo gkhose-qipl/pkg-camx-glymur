@@ -1,0 +1,5 @@
+# forwarded: https://github.com/qualcomm-linux/pkg-camx-glymur/issues/2
+spelling-error-in-binary *
+
+# forwarded: https://github.com/qualcomm-linux/pkg-camx-glymur/issues/3
+hardening-no-bindnow [*]

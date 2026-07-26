@@ -7,9 +7,9 @@ Build-Depends:
  debhelper-compat (= 13),
 Build-Depends-Arch:
  libfastrpc1,
- libglib2.0-0,
+ libglib2.0-0t64,
  libxml2,
- protobuf-compiler,
+ libprotobuf32t64,
 Standards-Version: 4.6.2
 Homepage: http://support.cdmatech.com
 
@@ -17,11 +17,7 @@ Package: camx-glymur
 Architecture: arm64
 Depends:
  hexagon-dsp-binaries-qualcomm-glymur-crd,
- libfastrpc1,
- libglib2.0-0,
- libprotobuf-lite32t64,
- libxml2-16,
- qcom-fastcv-binaries1,
+ qcom-fastcv-binaries,
  ${misc:Depends},
  ${shlibs:Depends},
 Description: Qualcomm CamX usermode libraries for Glymur platform

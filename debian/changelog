@@ -1,3 +1,9 @@
+camx-glymur (1.0.31-0qli+staging1~bpo13+1~) UNRELEASED; urgency=medium
+
+  * Rebuild for trixie.
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 28 Jul 2026 11:05:48 +0200
+
 camx-glymur (1.0.31-0qli+staging1) unstable; urgency=medium
 
   * Fake release to unstable: libxml2.9 (source) which provides libxml2 is

@@ -1,5 +1,5 @@
-camx-glymur (1.0.30-0qli+staging1~) UNRELEASED; urgency=medium
+camx-glymur (1.0.30-1) UNRELEASED; urgency=medium
 
-  * Initial release.
+  * Camx debians for glymur platform.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 21 Jul 2026 14:10:38 +0200
+ -- Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>  Thu, 16 Jul 2026 13:27:31 +0000

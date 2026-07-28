@@ -1,14 +1,13 @@
 Source: camx-glymur
-Section: non-free/libs
+Section: misc
+Priority: optional
 Maintainer: Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>
-Uploaders:
- Agathe Porte <agathe.porte@oss.qualcomm.com>,
+Rules-Requires-Root: no
 Build-Depends:
  debhelper-compat (= 13),
-Build-Depends-Arch:
- libfastrpc1,
  libglib2.0-0,
  libxml2,
+ libfastrpc1,
  protobuf-compiler,
 Standards-Version: 4.6.2
 Homepage: http://support.cdmatech.com
@@ -16,14 +15,13 @@ Homepage: http://support.cdmatech.com
 Package: camx-glymur
 Architecture: arm64
 Depends:
- hexagon-dsp-binaries-qualcomm-glymur-crd,
- libfastrpc1,
  libglib2.0-0,
+ libxml2,
  libprotobuf-lite32t64,
- libxml2-16,
- qcom-fastcv-binaries1,
- ${misc:Depends},
+ libfastrpc1,
+ libfastcvopt1 | qcom-fastcv-binaries1,
  ${shlibs:Depends},
+ ${misc:Depends}
 Description: Qualcomm CamX usermode libraries for Glymur platform
  Core camera driver components for Glymur platform.
 
@@ -31,17 +29,17 @@ Package: libcamx-glymur1
 Architecture: arm64
 Depends:
  camx-glymur (= ${binary:Version}),
- ${misc:Depends},
  ${shlibs:Depends},
+ ${misc:Depends}
 Description: Qualcomm CamX libraries for camera service
  Set of libraries used by camera service (QMMF) for Glymur platform
 
 Package: libcamx-glymur-dev
-Section: non-free/libdevel
 Architecture: arm64
 Depends:
  camx-glymur (= ${binary:Version}),
- ${misc:Depends},
+ ${shlibs:Depends},
+ ${misc:Depends}
 Description: Dev package for CamX libraries for camera service
  Contains headers, unversioned so files used by camera service (QMMF)
  for Glymur platform

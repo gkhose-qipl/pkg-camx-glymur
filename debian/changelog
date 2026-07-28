@@ -1,5 +1,7 @@
-camx-glymur (1.0.30-1) UNRELEASED; urgency=medium
+camx-glymur (1.0.31-0qli+staging1) unstable; urgency=medium
 
-  * Camx debians for glymur platform.
+  * Fake release to unstable: libxml2.9 (source) which provides libxml2 is
+    available in unstable but not in testing yet. Perform a fake unstable
+    release so we can backport it to trixie.
 
- -- Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>  Thu, 16 Jul 2026 13:27:31 +0000
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 21 Jul 2026 14:10:38 +0200

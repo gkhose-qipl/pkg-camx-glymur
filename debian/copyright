@@ -134,7 +134,7 @@ License: Qualcomm.nologin.binaries.license
  THE MATERIALS IS AT YOUR SOLE RISK.  THE MATERIALS AND TECHNICAL SUPPORT, IF
  ANY, ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR
  IMPLIED.  QTI ITS LICENSORS AND AFFILIATES MAKE NO WARRANTIES, EXPRESS OR
- IMPLIED, WITH RESPECT TO THE MATERIALS OR ANY OTHER INFORMATION OR 
+ IMPLIED, WITH RESPECT TO THE MATERIALS OR ANY OTHER INFORMATION OR
  DOCUMENTATION
  PROVIDED UNDER THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF
  MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR AGAINST INFRINGEMENT, OR
@@ -192,7 +192,7 @@ License: Qualcomm.nologin.binaries.license
  TO DELIVER, ANY OF THE DELIVERABLES, OR ANY BREACH OF ANY OBLIGATION UNDER THIS
  AGREEMENT, EVEN IF QTI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
  THE FOREGOING LIMITATION OF LIABILITY SHALL REMAIN IN FULL FORCE AND EFFECT
- REGARDLESS OF WHETHER YOUR REMEDIES HEREUNDER ARE DETERMINED TO HAVE FAILED 
+ REGARDLESS OF WHETHER YOUR REMEDIES HEREUNDER ARE DETERMINED TO HAVE FAILED
  OF
  THEIR ESSENTIAL PURPOSE.  THE ENTIRE LIABILITY OF QTI, QTI's AFFILIATES AND ITS
  LICENSORS, AND THE SOLE AND EXCLUSIVE REMEDY OF YOU, FOR ANY CLAIM OR CAUSE OF
@@ -274,7 +274,7 @@ License: Qualcomm.nologin.binaries.license
  trademarks, copyrights, or other intellectual property.
  .
  Copyright (c) 2022 Qualcomm Technologies, Inc.
- All rights reserved. 
+ All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the property of their respective owners.
  .
@@ -313,7 +313,7 @@ License: Qualcomm.nologin.binaries.license
  // or tort (including negligence or otherwise) arising in any way out of
  // the use of this software, even if advised of the possibility of such damage.
  //
-  
+ .
  ________________________________________________________________////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  // Copyright (c) 2019-2020 Qualcomm Technologies, Inc.
  // All Rights Reserved.
@@ -592,7 +592,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -1317,7 +1317,7 @@ License: Qualcomm.nologin.binaries.license
  .
   Author: Zong Wei <wei.zong@intel.com>
   ________________________________________
-  
+
  Note: Any files for which the above Apache License notices are required
  to be provided are not contributions.
  .
@@ -2329,7 +2329,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2017 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2017 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -2669,7 +2669,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.
@@ -2725,7 +2725,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2020 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2020 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -2940,7 +2940,7 @@ License: Qualcomm.nologin.binaries.license
  _________________________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.By downloading, copying, installing or using the software you agree to this license.
@@ -3652,7 +3652,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.By downloading, copying, installing or using the software you agree to this license.
@@ -4059,7 +4059,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.This NOTICE file contains certain notices of software components included
@@ -4509,7 +4509,7 @@ License: Qualcomm.nologin.binaries.license
  .
   Author: Zong Wei <wei.zong@intel.com>
   ________________________________________
-  
+
  Note: Any files for which the above Apache License notices are required
  to be provided are not contributions.
  .
@@ -4932,7 +4932,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -4982,7 +4982,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2020 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2020 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -5197,7 +5197,7 @@ License: Qualcomm.nologin.binaries.license
  _________________________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.By downloading, copying, installing or using the software you agree to this license.
@@ -5909,7 +5909,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.By downloading, copying, installing or using the software you agree to this license.
@@ -6316,7 +6316,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.By downloading, copying, installing or using the software you agree to this license.
@@ -6421,7 +6421,7 @@ License: Qualcomm.nologin.binaries.license
  trademarks, copyrights, or other intellectual property.
  .
  Copyright (c) 2022 Qualcomm Technologies, Inc.
- All rights reserved. 
+ All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the property of their respective owners.
  .
@@ -6460,7 +6460,7 @@ License: Qualcomm.nologin.binaries.license
  // or tort (including negligence or otherwise) arising in any way out of
  // the use of this software, even if advised of the possibility of such damage.
  //
-  
+
  ________________________________________________________________This NOTICE file contains certain notices of software components included
  with the software that Qualcomm Technologies, Inc. ("Qualcomm Technologies")
  is required to provide you. Notwithstanding anything in the notices in this file,
@@ -7574,7 +7574,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2017 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2017 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -7914,7 +7914,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.
@@ -10752,7 +10752,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.
@@ -10987,7 +10987,7 @@ License: Qualcomm.nologin.binaries.license
  trademarks, copyrights, or other intellectual property.
  .
  Copyright (c) 2020 Qualcomm Technologies, Inc.
- All rights reserved. 
+ All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -10996,13 +10996,13 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Copyright (C) 2012, 2014 The Android Open Source Project
-  
+
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
  You may obtain a copy of the License at
-  
+
  http://www.apache.org/licenses/LICENSE-2.0
-  
+
  Unless required by applicable law or agreed to in writing, software
  distributed under the License is distributed on an "AS IS" BASIS,
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -11028,7 +11028,7 @@ License: Qualcomm.nologin.binaries.license
  ________________________________________
  .
  Note: Any files for which the above Apache License notices are required
- to be provided are not contributions. 
+ to be provided are not contributions.
  .
  A copy of the Apache 2.0 license is included in the file LICENSE
  for attribution purposes only.
@@ -11438,7 +11438,7 @@ License: Qualcomm.nologin.binaries.license
  form, provided that You meet the following conditions:
  .
  You must give any other recipients of the Work or Derivative Works a copy of this
- License; and 
+ License; and
  You must cause any modified files to carry prominent notices stating that You changed
  the files; and
  You must retain, in the Source form of any Derivative Works that You distribute,
@@ -11904,7 +11904,7 @@ License: Qualcomm.nologin.binaries.license
  Redistribution and use is allowed according to the terms of the BSD license.
  For details see the accompanying COPYING-CMAKE-SCRIPTS file.
  .
- /* this program is in the public domain 
+ /* this program is in the public domain
  .
  // Copyright 2003 Google Inc.
  // All rights reserved.
@@ -12324,7 +12324,7 @@ License: Qualcomm.nologin.binaries.license
  // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  .
  ------------------------------------------------------------------------------------
- All Google Mock source and pre-built packages are provided under the 
+ All Google Mock source and pre-built packages are provided under the
  [New BSD License](http://www.opensource.org/licenses/bsd-license.php).
  .
  All Google Test source and pre-built packages are provided under the
@@ -12353,7 +12353,7 @@ License: Qualcomm.nologin.binaries.license
  INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
  STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-  
+
  The views and conclusions contained in the software and documentation are those of
  the authors and should not be interpreted as representing official policies, either
  expressed or implied, of Andrea Leofreddi.
@@ -12767,7 +12767,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any Qualcomm Technologies patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.
@@ -13214,15 +13214,37 @@ License: Qualcomm.nologin.binaries.license
    incurred by, or claims asserted against, such Contributor by reason
    of your accepting any such warranty or additional liability.
  .
- END OF TERMS AND CONDITIONSThis file contains certain notices of software components included with the software that Qualcomm Technologies, Inc. ("QTI") and/or its subsidiaries are required to provide you. Except where prohibited by the open source license, the content of this file is provided solely to satisfy QTI's and/or its subsidiaries’ attribution and notice requirements, and your use of these software components together with the software of QTI and/or its subsidiaries ("Software") is subject to the terms of your license from QTI and/or its subsidiaries, as the case may be. Compliance with all copyright laws and software license agreements included in the notice section of this file are the responsibility of the user. Except as may be granted by separate express written agreement, this file provides no license to any patents, trademarks, copyrights, or other intellectual property of Qualcomm Incorporated or any of its subsidiaries.
+ END OF TERMS AND CONDITIONS
  .
- Software provided with this notice is NOT A CONTRIBUTION to any open source project. If alternative licensing is available for any of the components with licenses or attributions provided below, a license choice is made for receiving such code by QTI and/or its subsidiaries, as the case may be.
+ This file contains certain notices of software components included with the
+ software that Qualcomm Technologies, Inc. ("QTI") and/or its subsidiaries are
+ required to provide you. Except where prohibited by the open source license,
+ the content of this file is provided solely to satisfy QTI's and/or its
+ subsidiaries’ attribution and notice requirements, and your use of these
+ software components together with the software of QTI and/or its subsidiaries
+ ("Software") is subject to the terms of your license from QTI and/or its
+ subsidiaries, as the case may be. Compliance with all copyright laws and
+ software license agreements included in the notice section of this file are
+ the responsibility of the user. Except as may be granted by separate express
+ written agreement, this file provides no license to any patents, trademarks,
+ copyrights, or other intellectual property of Qualcomm Incorporated or any of
+ its subsidiaries.
+ .
+ Software provided with this notice is NOT A CONTRIBUTION to any open source
+ project. If alternative licensing is available for any of the components with
+ licenses or attributions provided below, a license choice is made for
+ receiving such code by QTI and/or its subsidiaries, as the case may be.
  .
  Copyright (c) 2019 of Qualcomm Technologies, Inc.  All rights reserved.
  .
- Qualcomm is a trademark of Qualcomm Incorporated, registered in the United States and other countries. All Qualcomm Incorporated trademarks are used with permission. Other products and brand names may be trademarks or registered trademarks of their respective owners.
+ Qualcomm is a trademark of Qualcomm Incorporated, registered in the United
+ States and other countries. All Qualcomm Incorporated trademarks are used with
+ permission. Other products and brand names may be trademarks or registered
+ trademarks of their respective owners.
  .
- This software may be subject to U.S. and international export, re-export or transfer (export) laws.  Diversion contrary to U.S. and international law is strictly prohibited.
+ This software may be subject to U.S. and international export, re-export or
+ transfer (export) laws.  Diversion contrary to U.S. and international law is
+ strictly prohibited.
  .
  ================================================================
  --------
@@ -13321,7 +13343,7 @@ License: Qualcomm.nologin.binaries.license
  form, provided that You meet the following conditions:
  .
  You must give any other recipients of the Work or Derivative Works a copy of this
- License; and 
+ License; and
  You must cause any modified files to carry prominent notices stating that You changed
  the files; and
  You must retain, in the Source form of any Derivative Works that You distribute,
@@ -13787,7 +13809,7 @@ License: Qualcomm.nologin.binaries.license
  Redistribution and use is allowed according to the terms of the BSD license.
  For details see the accompanying COPYING-CMAKE-SCRIPTS file.
  .
- /* this program is in the public domain 
+ /* this program is in the public domain
  .
  // Copyright 2003 Google Inc.
  // All rights reserved.
@@ -14207,7 +14229,7 @@ License: Qualcomm.nologin.binaries.license
  // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  .
  ------------------------------------------------------------------------------------
- All Google Mock source and pre-built packages are provided under the 
+ All Google Mock source and pre-built packages are provided under the
  [New BSD License](http://www.opensource.org/licenses/bsd-license.php).
  .
  All Google Test source and pre-built packages are provided under the
@@ -14236,7 +14258,7 @@ License: Qualcomm.nologin.binaries.license
  INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
  STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-  
+
  The views and conclusions contained in the software and documentation are those of
  the authors and should not be interpreted as representing official policies, either
  expressed or implied, of Andrea Leofreddi.
@@ -14337,7 +14359,7 @@ License: Qualcomm.nologin.binaries.license
  written agreement, this file provides no license to any Qualcomm Technologies patents,
  trademarks, copyrights, or other intellectual property.
  .
- Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved. 
+ Copyright (c) 2022 Qualcomm Technologies, Inc. All rights reserved.
  Qualcomm is a registered trademark and registered service mark of
  QUALCOMM Incorporated. All other trademarks and service marks are the
  property of their respective owners.

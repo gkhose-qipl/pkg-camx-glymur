@@ -18,3 +18,8 @@ endif
 override_dh_strip:
 	# Don't strip DSP skel files
 	dh_strip --exclude=libhme_dsp_skel.so
+
+maintainerclean:
+	rm -r \
+		data/ \
+		LICENSE.qcom-2

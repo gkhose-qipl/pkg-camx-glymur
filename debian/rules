@@ -3,10 +3,6 @@
 %:
 	dh $@
 
-override_dh_strip:
-	# Don't strip DSP skel files
-	dh_strip --exclude=libhme_dsp_skel.so
-
 # Upstream already strips .debug_info section, no need to try to do it again
 override_dh_dwz:
 

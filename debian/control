@@ -10,6 +10,8 @@ Build-Depends-Arch:
  libxml2,
 Standards-Version: 4.6.2
 Homepage: http://support.cdmatech.com
+Vcs-Browser: https://github.com/qualcomm-linux/pkg-camx-glymur
+Vcs-Git: https://github.com/qualcomm-linux/pkg-camx-glymur.git
 
 Package: camx-glymur
 Architecture: arm64

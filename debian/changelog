@@ -6,8 +6,9 @@ camx-glymur (1.0.34-0qli1~) UNRELEASED; urgency=medium
   * d/control: add missing Vcs-Browser and Vcs-Git
   * d/gbp.conf: update for QLI
   * d/rules: drop unused libhme_dsp_skel.so strip exclude
+  * Use aarch64-linux-gnu for libexec elf executable
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Mon, 17 Aug 2026 12:00:59 +0200
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Mon, 17 Aug 2026 12:35:03 +0200
 
 camx-glymur (1.0.31-0qli+staging1) unstable; urgency=medium
 

@@ -1,2 +1,9 @@
-/LICENSE.qcom-2
-/data/
+LICENSE.qcom-2
+camx-entitled-headers-dev
+camx-glymur
+camx-glymur-dbgsym
+camx-glymur-dev
+libcamx-dev
+libcamx-glymur-dev
+libcamx-glymur1
+libcamx-glymur1-dbgsym

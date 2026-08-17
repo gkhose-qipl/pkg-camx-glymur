@@ -9,7 +9,7 @@ ifeq ($(DEB_HOST_ARCH),arm64)
 	for pkg in camx-glymur \
 	           libcamx-glymur1 \
 	           libcamx-glymur-dev; do \
-		cp -a data/$$pkg/arm64/* debian/tmp/; \
+		cp -a $$pkg/arm64/* debian/tmp/; \
 	done
 	rm -rf $(CURDIR)/debian/tmp/usr/share/doc
 endif
@@ -21,5 +21,12 @@ override_dh_strip:
 
 maintainerclean:
 	rm -r \
-		data/ \
-		LICENSE.qcom-2
+		LICENSE.qcom-2 \
+		camx-entitled-headers-dev \
+		camx-glymur \
+		camx-glymur-dbgsym \
+		camx-glymur-dev \
+		libcamx-dev \
+		libcamx-glymur-dev \
+		libcamx-glymur1 \
+		libcamx-glymur1-dbgsym

@@ -5,3 +5,6 @@ hardening-no-bindnow [*]
 # a valid use described in the lintian tag message.
 custom-library-search-path RUNPATH /usr/lib/aarch64-linux-gnu/camx/glymur [*]
 custom-library-search-path RUNPATH /usr/lib/aarch64-linux-gnu/camx/glymur/hw [*]
+
+# upstream ships multiple .so files, group them in a single package
+package-name-doesnt-match-sonames libcamx-hardware-glymur1 libcamx-metadata-glymur1 libcamxexternalformatutils-glymur0

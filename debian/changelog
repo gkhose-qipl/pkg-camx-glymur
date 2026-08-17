@@ -1,3 +1,9 @@
+camx-glymur (1.0.34-0qli1~bpo13+1~) UNRELEASED; urgency=medium
+
+  * Rebuild for trixie.
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Mon, 17 Aug 2026 13:22:05 +0200
+
 camx-glymur (1.0.34-0qli1) unstable; urgency=medium
 
   * New upstream release.

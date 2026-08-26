@@ -1,8 +1,8 @@
-camx-glymur (1.0.34-0qli1~bpo13+2~) UNRELEASED; urgency=medium
+camx-glymur (1.0.39-1) UNRELEASED; urgency=medium
 
-  * Unreleased changes
+  * Tuning enablement of features like ADRC and LDC
 
- -- Debusine Action Bot <noreply@bot.invalid>  Tue, 18 Aug 2026 14:37:53 +0000
+ -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Wed, 26 Aug 2026 08:04:33 +0000
 
 camx-glymur (1.0.34-0qli1~bpo13+1) trixie; urgency=medium
 
